@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.App{
+padding: 1.5rem;
+width:100vw;
+min-height: 100vh;
+height: 100%;
+background:linear-gradient(to right , #119c92 , #1a1c68);
+
+
+header{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: yellowgreen;
+    h1{
+        font-size: 5rem;
+    }
+
+}
+
+.SearchBox{
+    width: 40;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    input{
+        padding: 0.5rem;
+        border: none;
+        color: gray;
+    }
+
+}
+
+
+}
+
+
+
