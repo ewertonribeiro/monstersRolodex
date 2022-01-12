@@ -9,6 +9,8 @@
 .App{
 padding: 1.5rem;
 width:100vw;
+max-width: 100vw;
+overflow-x: hidden;
 min-height: 100vh;
 height: 100%;
 background:linear-gradient(to right , #119c92 , #1a1c68);
@@ -22,26 +24,11 @@ header{
     justify-content: center;
     color: yellowgreen;
     h1{
+        font-family: 'Bigelow Rules', cursive;
         font-size: 5rem;
+        margin: 0 auto;
     }
-
 }
-
-.SearchBox{
-    width: 40;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 1rem;
-    input{
-        padding: 0.5rem;
-        border: none;
-        color: gray;
-    }
-
-}
-
-
 }
 
 
