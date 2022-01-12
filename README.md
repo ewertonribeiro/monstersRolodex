@@ -12,4 +12,8 @@
 ### Projeto criado em react com o intuito de implementar um simples sistema de busca e filtragem de informações!
 
 
-# Tecnologias Usadas
+## 🧪 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React Js](https://reactjs.org)
